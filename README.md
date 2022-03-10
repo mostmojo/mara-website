@@ -16,7 +16,7 @@ __________
 
 ### Anticipated TO DOs
 
-* Wireframe in a Figma file, shared with the group
+* Wireframe in a [Figma](https://www.figma.com/file/wPwhZfiOmKzXYBoGaQNKzH/Mara-Wireframe-Final) file, shared with the group
 * Confirm sections and amalgamate content from sales team 
 * Commence UI 
 * Commence build
