@@ -28,4 +28,4 @@ ________
 
 * HTML / CSS / JS
 * Ruby on Rails or equivalent for backend form integrations if necessary
-* Alternative to backend - services e.g. Getform.io and/or MailChimp
+* Alternative to backend - services e.g. [Getform.io](getform.io) and/or MailChimp
