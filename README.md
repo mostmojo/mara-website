@@ -1,6 +1,6 @@
 # Coin Mara Website Documentation for placeholder site
 
-### Website should may constitute of the following:
+### Website may constitute of the following:
 
 * Navigation menu - with logo and navigation items
 * Hero / splash image with a line to describe the vision and a call to action e.g. `Learn more`
